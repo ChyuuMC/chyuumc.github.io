@@ -4,27 +4,27 @@
 ###########################################################
 page_data:
   main:
-    header: "Projects"
-    info: "Your Project page description."
+    header: "Tutorials"
+    info: "Here, you can find how to do some stuff step-by-step."
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
     img: ":projects-heading.jpg"
     back_color: "lightblue"
 
   category:
-    - title: "Example"
-      type: id_example
+    - title: "Lifestyle"
+      type: id_lifestyle
       color: "gray"
-    - title: "Picture"
-      type: id_picture
+    - title: "Beauty"
+      type: id_beauty
       color: "#62b462"
-    - title: "Quote"
-      type: id_quote
+    - title: "Study"
+      type: id_study
       color: "#2FD0ED"
 
   list:
-    # example
-    - type: id_example
+    # lifestyle
+    - type: id_lifestyle
       project_name: "Example Project"
       project_excerpt: "Examples"
       img: ":project1_thumb.jpg"

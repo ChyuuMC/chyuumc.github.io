@@ -17,6 +17,7 @@ date:
   long: "%b %-d, %Y"
   day: "%d"
   year: "%Y"
+  years: [2020, 2021, 2022]
   months: [January, February, March, April, May, June, July, August, September, October, November, December]
 
 not_found:
