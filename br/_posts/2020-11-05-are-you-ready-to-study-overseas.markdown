@@ -11,7 +11,7 @@ category: study_overseas
 # multiple tag entries are possible
 tags: [learning, skills]
 # thumbnail image for post
-img: "IMG_3128.JPG"
+img: ":IMG_3128.JPG"
 # disable comments on this page
 #comments_disable: true
 
