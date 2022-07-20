@@ -39,8 +39,8 @@ lng_pair: id_links
 ###########################################################
 page_data:
   main:
-    header: "ဝက်ံ(ပ)ဆိုက်များ"
-    info: "အကျဉ်းချုပ်"
+    header: "လင့်(ခ)များ"
+    info: "အသုံးဝင်မည့် လင့်(ခ)များ"
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
