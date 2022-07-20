@@ -20,6 +20,13 @@ xmlns:image="https://www.google.com/schemas/sitemap-image/1.1">
     </image:image>
   </url>
   <url>
+    <loc>http://localhost:4000/br/2020-11-05-are-you-ready-to-study-overseas</loc>
+    <image:image>
+      <image:loc>http://localhost:4000/IMG_3128.JPG</image:loc>
+      <image:title>🌏 သင်နိုင်ငံခြားမှာ ပညာသင်ဖို့ အဆင်သင့် ဖြစ်ပြီလား။ 🌎</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>http://localhost:4000/tabs/about.html</loc>
   </url>
   <url>
