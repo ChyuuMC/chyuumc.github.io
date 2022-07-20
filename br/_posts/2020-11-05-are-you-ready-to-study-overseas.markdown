@@ -38,7 +38,7 @@ date: 2020-11-05 12:52:30 +0200
 ---
 <!-- outline-start -->
 
-![At the highest point of Czech Republic](IMG_3128.JPG){:data-align="center"}
+![At the highest point of Czech Republic](:IMG_3128.JPG){:data-align="center"}
 
 မင်္ဂလာပါ။
 
