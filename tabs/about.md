@@ -34,9 +34,14 @@ img: ":about.jpg"
 #published: false
 ---
 
-{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+### Who am I?
+I am a girl from Myanmar (formerly known as Burma). I moved to Czech Republic, specifically to Hradec Kralove, back in 2016 to study medicine. Currently, I am in the 5th year of my studies. 
 
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
+### Why did I create this website?
+I remember my days back in the first year. I came here alone without knowing anybody here. First year was difficult for me in terms of adapting to the new environment. I didn't know how to dress for the winter, what to eat in Czech Republic, where to find what nor how to communicate in Czech language. 
 
-{{ website_info_text_second }}
+### The goal
+The goal of the English version of this page is to help the first years in their adaptaion process, especially outside their studies. 
+
+### What else is there?
+I also have a Burmese version of this page where I share my knowlege of studying overseas to people in my country. If you have Google Chrome as a browser, it supports Burmese tranaslation to English so you are welcome to check it out, as well.

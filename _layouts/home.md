@@ -13,14 +13,24 @@ layout: default
     {%- capture home_img_tag -%} <img src="{{ page.img }}" /> {%- endcapture -%}
     {%- capture home_img_background_style -%} style="height: unset;" {%- endcapture -%}
   {% else %}
-    {%- capture home_img_background_style -%} style="background-image:url('{{ page.img }}');" {%- endcapture -%}
+    {%- capture home_img_background_style -%} style="background-image:url('{{ page.img }}'); background-position: center; background-repeat: no-repeat; background-size: cover; position: relative;" {%- endcapture -%}
   {%- endif -%}
 {%- endif -%}
+
+<!--
+<style>
+#title-style {
+color: #FFFFFF;
+text-shadow: -5px 5px 0px #11457e, -10px 10px 0px #d7141a;
+}
+</style>
+-->
 
 <div class="multipurpose-container home-heading-container">
   <div class="home-heading" {{ home_img_background_style }}>
     {{ home_img_tag }}
-    <div class="home-heading-message">
+    <!--
+    <div class="home-heading-message" id='title-style'>
       {{ site.data.owner[lng].home.top_header_line1
         | replace: site.data.conf.main.brand_replace, site.data.owner[lng].brand
         | replace: site.data.conf.main.greetings_replace, site.data.lang[lng].constants.greetings
@@ -33,11 +43,13 @@ layout: default
           | replace: site.data.conf.main.welcome_replace, site.data.lang[lng].constants.welcome }}
       {% endif -%}
     </div>
+    -->
   </div>
   <div class="home-intro-text markdown-style">
     {{ content }}
   </div>
 </div>
+
 
 {%- if lng_pages.size > 0 and site.data.conf.others.home.new_posts %}
 <div class="multipurpose-container new-posts-container">

@@ -1,0 +1,23 @@
+# you can move this content to front matter of [language]/tabs/projects.md
+###########################################################
+#                Projects Page Data
+###########################################################
+page_data:
+  main:
+    header: "ခြူးသိထားသမျှ"
+    info: "တစ်ဆင့်ပြီးတစ်ဆင့် ကျူတိုရီရယ်များ"
+    text_color: "white"
+    # if you don't want to use background image, comment it. back_color will be activated.
+    img: ":projects-heading.jpg"
+    back_color: "lightblue"
+
+  category:
+    - title: "ကျန်းမာရေး"
+      type: id_health
+      color: "gray"
+    - title: "ပညာရေး"
+      type: id_knowledge
+      color: "#62b462"
+    - title: "အလှအပ"
+      type: id_beauty
+      color: "#2FD0ED"

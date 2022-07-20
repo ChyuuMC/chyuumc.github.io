@@ -6,7 +6,7 @@ lng:
   # For html tags, you can enable or disable using html_lng_with_country_code defined in _data/conf/main.yml
   # based on ISO_3166-1 https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
   country: US
-  switch_title: En
+  switch_title: English
   offer:
     title: Language
     msg_page: View this page in English.
@@ -104,8 +104,8 @@ post:
 
 # for post-list layout
 post-list:
-  title: Blog
-  button_name: Blog
+  title: Blogs
+  button_name: Blogs
   upside_down_tabs:
     tab:
       all: All
@@ -130,7 +130,7 @@ post-list:
 home:
   title: Welcome
   button_name: Home
-  new_posts_title: New Articles
+  new_posts_title: New Posts
   new_posts_show_more_button: View More ...
 
 # for archives layout
@@ -141,7 +141,7 @@ archives:
 
 # for about layout
 about:
-  title: About
+  title: About Chyuu
   button_name: About
   email_title: email
 
@@ -154,8 +154,8 @@ links:
 
 # for projects layout
 projects:
-  title: Projects
-  button_name: Projects
+  title: Tutorials
+  button_name: Tutorials
   read_more_text: Read more
   read_less_text: Read less
 
@@ -165,8 +165,8 @@ privacy-policy:
 
 # constants to be replaced for
 constants:
-  greetings: Hello
-  welcome: Welcome
+  greetings: Hello!
+  welcome: Welcome!
   sample: Sample
 
 # for cookie consent

@@ -35,9 +35,6 @@ img: ":home-heading.jpg"
 #published: false
 ---
 
-{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+## Welcome, everyone!
 
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
-
-{{ website_info_text_second }}
+Here, I share what I know about living in Czech Republic and some tips that can help you adapt to your new home.

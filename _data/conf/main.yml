@@ -21,7 +21,7 @@ default_lng: en
 # to prevent adding languages with no folder
 # single language disables language switch
 # language order is linked to array order
-language_switch_lang_list: [en, ja]
+language_switch_lang_list: [en, br]
 
 # if the opened page is not in the user's language list,
 # suggest language(s) matching with the one(s) in browser language list and user language list.
@@ -186,7 +186,7 @@ side_and_top_nav_buttons:
   - post-list:
     icon: "fa fa-pencil-square-o"
   - archives:
-    icon: "fa fa-archive"
+    icon: "fa fa-calendar-o"
   - projects:
     icon: "fa fa-cog"
   - links:
