@@ -191,7 +191,7 @@
   <div class="archives">
     <div class="year">
       <h6>2020</h6><div class="month">
-        <h6>December</h6>
+        <h6>ဒီဇင်ဘာလ</h6>
         <ul>
           <li>
             <span>10</span><a href="/br/2020-12-10-how-did-i-learn-english">📚 အင်္ဂလိပ်စာတတ်အောင် ဘယ်လို လေ့လာရမလဲ။ 📚</a>
@@ -202,7 +202,7 @@
         </ul>
       </div>
       <div class="month">
-        <h6>November</h6>
+        <h6>နိုဝင်ဘာလ</h6>
         <ul>
           <li>
             <span>05</span><a href="/br/2020-11-05-are-you-ready-to-study-overseas">🌏 သင်နိုင်ငံခြားမှာ ပညာသင်ဖို့ အဆင်သင့် ဖြစ်ပြီလား။ 🌎</a>
@@ -221,7 +221,204 @@
     </footer>
   </div>
 </div>
-<div class="scroll-to-top-container">
+
+<script>
+  /*
+  if (!document.documentElement.lang.localeCompare("my-MM")) {
+    document.body.innerHTML = document.body.innerHTML.replace(/0/g, "၀");
+    document.body.innerHTML = document.body.innerHTML.replace(/1/g, "၁");
+    document.body.innerHTML = document.body.innerHTML.replace(/2/g, "၂");
+    document.body.innerHTML = document.body.innerHTML.replace(/3/g, "၃");
+    document.body.innerHTML = document.body.innerHTML.replace(/4/g, "၄");
+    document.body.innerHTML = document.body.innerHTML.replace(/5/g, "၅");
+    document.body.innerHTML = document.body.innerHTML.replace(/6/g, "၆");
+    document.body.innerHTML = document.body.innerHTML.replace(/7/g, "၇");
+    document.body.innerHTML = document.body.innerHTML.replace(/8/g, "၈");
+    document.body.innerHTML = document.body.innerHTML.replace(/9/g, "၉");
+  }
+*/
+
+/*
+$.fn.highlight = function(word) {
+    var pattern = new RegExp(word, 'g'),
+        //repl = '<span class="high">' + word + '</span>';
+        br_numbers = ["၀","၁","၂","၃","၄","၅","၆","၇","၈","၉"]
+        repl = br_numbers[word]
+
+    this.each(function() {
+        $(this).contents().each(function() {
+            if(this.nodeType === 3 && pattern.test(this.nodeValue)) {
+                $(this).replaceWith(this.nodeValue.replace(pattern, repl));
+            }
+        });
+    });
+    return this;
+};
+
+for (let i = 0; i < 10; i++) {
+  $('html').highlight(i);
+};
+*/
+
+function replace_numbers(input_text) {
+  input_text = input_text.replace(/0/g, "၀");
+  input_text = input_text.replace(/1/g, "၁");
+  input_text = input_text.replace(/2/g, "၂");
+  input_text = input_text.replace(/3/g, "၃");
+  input_text = input_text.replace(/4/g, "၄");
+  input_text = input_text.replace(/5/g, "၅");
+  input_text = input_text.replace(/6/g, "၆");
+  input_text = input_text.replace(/7/g, "၇");
+  input_text = input_text.replace(/8/g, "၈");
+  input_text = input_text.replace(/9/g, "၉");
+  return input_text;
+};
+
+function replace_comma(input_text) {
+  input_text = input_text.replace(/,/g, " ရက်");
+  return input_text;
+}
+
+function change_font_size(input_text) {
+  input_text = input_text.replace(/<span>/g, "<span style='font-size: 1em'>");
+  return input_text;
+}
+
+function replace_months(input_month) {
+  input_month = input_month.replace(/Jan/g, "ဇန်နဝါရီလ");
+  input_month = input_month.replace(/Feb/g, "ဖေဖော်ဝါရီလ");
+  input_month = input_month.replace(/Mar/g, "မတ်လ");
+  input_month = input_month.replace(/Apr/g, "ဧပြီလ");
+  input_month = input_month.replace(/May/g, "မေလ");
+  input_month = input_month.replace(/Jun/g, "ဇွန်လ");
+  input_month = input_month.replace(/Jul/g, "ဂျူလိုင်လ");
+  input_month = input_month.replace(/Aug/g, "ဩဂုတ်လ");
+  input_month = input_month.replace(/Sep/g, "စက်တင်ဘာလ");
+  input_month = input_month.replace(/Oct/g, "အောက်တိုဘာလ");
+  input_month = input_month.replace(/Nov/g, "နိုဝင်ဘာလ");
+  input_month = input_month.replace(/Dec/g, "ဒီဇင်ဘာလ");
+  return input_month;
+};
+
+function replace_date(input_text) {
+  input_text = replace_numbers(input_text);
+  input_text = replace_months(input_text);
+  input_text = replace_comma(input_text);
+  return input_text;
+}
+/*
+document.body.childNodes.forEach((node) => {
+  if(node.nodeType === Node.TEXT_NODE && node.nodeValue.trim() !== "") {
+    node.nodeValue = node.nodeValue.replace(/0/g, "၀");
+    node.nodeValue = node.nodeValue.replace(/1/g, "၁");
+    node.nodeValue = node.nodeValue.replace(/2/g, "၂");
+    node.nodeValue = node.nodeValue.replace(/3/g, "၃");
+    node.nodeValue = node.nodeValue.replace(/4/g, "၄");
+    node.nodeValue = node.nodeValue.replace(/5/g, "၅");
+    node.nodeValue = node.nodeValue.replace(/6/g, "၆");
+    node.nodeValue = node.nodeValue.replace(/7/g, "၇");
+    node.nodeValue = node.nodeValue.replace(/8/g, "၈");
+    node.nodeValue = node.nodeValue.replace(/9/g, "၉");
+  }
+});
+*/
+
+function getElementByXpath(path) {
+  return document.evaluate(path, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
+}
+
+
+window.onload = function() {
+  if (!document.documentElement.lang.localeCompare("my-MM")) {
+    /*
+    try {
+      document.getElementsByClassName('meta')[0].innerHTML = replace_numbers(document.getElementsByClassName('meta')[0].innerHTML);
+    }
+    catch(err) {}
+    */
+    try {
+      for (let i = 0; i < document.getElementsByClassName('footer-text').length; i++) {
+        document.getElementsByClassName('footer-text')[i].innerHTML = replace_numbers(document.getElementsByClassName('footer-text')[i].innerHTML);
+      };
+    }
+    catch(err) {}
+
+    try {
+      for (let i = 0; i < document.getElementsByClassName('side-nav-footer').length; i++) {
+        document.getElementsByClassName('side-nav-footer')[i].innerHTML = replace_numbers(document.getElementsByClassName('side-nav-footer')[i].innerHTML);
+      };
+    }
+    catch(err) {}
+
+    try {
+      for (let i = 0; i < document.getElementsByTagName('h6').length; i++) {
+        document.getElementsByTagName('h6')[i].innerHTML = replace_numbers(document.getElementsByTagName('h6')[i].innerHTML);
+      };
+    }
+    catch(err) {}
+
+    /*
+    try {
+    for (let i = 0; i < document.getElementsByClassName('new-posts')[0].getElementsByTagName('li').length; i++) {
+        document.getElementsByClassName('new-posts')[0].getElementsByTagName('li')[i].getElementsByTagName('a').getElementsByTagName('span') = replace_numbers(document.getElementsByClassName('new-posts')[0].getElementsByTagName('li')[i].getElementsByTagName('a').getElementsByTagName('span').innerHTML);
+      };
+    }
+    catch(err) {}
+
+    //getElementByXpath('//*[@id="main-wrapper"]/div[1]/div[2]/ul/li[1]/a/span')
+    try {
+    for (let i = 0; i < getElementByXpath('/html/body/div[1]/div[1]/div[2]/ul/li[1]/a/span').length; i++) {
+      getElementByXpath('/html/body/div[1]/div[1]/div[2]/ul/li[1]/a/span').innerHTML = replace_numbers(getElementByXpath('/html/body/div[1]/div[1]/div[2]/ul/li[1]/a/span').innerHTML);
+      };
+    }
+    catch(err) {}
+    */
+
+  try {
+    for (let i = 0; i < document.querySelectorAll("#main-wrapper > div.main-container > div.multipurpose-container.new-posts-container > ul > li").length; i++) {
+      document.querySelector(`#main-wrapper > div.main-container > div.multipurpose-container.new-posts-container > ul > li:nth-child(${i+1}) > a > span`).outerHTML = change_font_size(document.querySelector(`#main-wrapper > div.main-container > div.multipurpose-container.new-posts-container > ul > li:nth-child(${i+1}) > a > span`).outerHTML);
+      document.querySelector(`#main-wrapper > div.main-container > div.multipurpose-container.new-posts-container > ul > li:nth-child(${i+1}) > a > span`).innerHTML = replace_date(document.querySelector(`#main-wrapper > div.main-container > div.multipurpose-container.new-posts-container > ul > li:nth-child(${i+1}) > a > span`).innerHTML);
+    };
+  }
+  catch(err) {}
+
+  try {
+    for (let i = 0; i < document.querySelectorAll("#main-wrapper > div.main-container > div.post-list-container > div").length; i++) {
+      document.querySelector(`#main-wrapper > div.main-container > div.post-list-container > div:nth-child(${i+1}) > div.excerpt-holder > div.meta > small:nth-child(1)`).innerHTML = replace_date(document.querySelector(`#main-wrapper > div.main-container > div.post-list-container > div:nth-child(${i+1}) > div.excerpt-holder > div.meta > small:nth-child(1)`).innerHTML);
+      document.querySelector(`#main-wrapper > div.main-container > div.post-list-container > div:nth-child(${i+1}) > div.excerpt-holder > div.meta > small:nth-child(2)`).innerHTML = replace_numbers(document.querySelector(`#main-wrapper > div.main-container > div.post-list-container > div:nth-child(${i+1}) > div.excerpt-holder > div.meta > small:nth-child(2)`).innerHTML);
+      document.querySelector(`#main-wrapper > div.main-container > div.post-list-container > div:nth-child(${i+1}) > div.excerpt-holder > div.meta > small:nth-child(1)`).outerHTML = replace_date(document.querySelector(`#main-wrapper > div.main-container > div.post-list-container > div:nth-child(${i+1}) > div.excerpt-holder > div.meta > small:nth-child(1)`).outerHTML.replace(/<span>/g, '<span class=" __mm">'));
+    };
+  }
+  catch(err) {}
+
+  try {
+    for (let i = 0; i < document.querySelectorAll("#main-wrapper > div.main-container > div > div > div > div").length; i++) {
+      for (let j = 0; j < document.querySelectorAll(`#main-wrapper > div.main-container > div > div > div > div:nth-child(${i+2}) > ul > li`).length; j++) {
+          document.querySelector(`#main-wrapper > div.main-container > div > div > div > div:nth-child(${i+2}) > ul > li:nth-child(${j+1}) > span`).innerHTML = replace_numbers(document.querySelector(`#main-wrapper > div.main-container > div > div > div > div:nth-child(${i+2}) > ul > li:nth-child(${j+1}) > span`).innerHTML);
+      }
+    };
+  }
+  catch(err) {}
+
+  try {
+    //for (let i = 0; i < document.querySelectorAll("#main-wrapper > div.main-container > div.post-list-container > div").length; i++) {
+      document.querySelector(`#main-wrapper > div.main-container > div.multipurpose-container.post-container > div.meta > small:nth-child(1) > span`).innerHTML = replace_date(document.querySelector(`#main-wrapper > div.main-container > div.multipurpose-container.post-container > div.meta > small:nth-child(1) > span`).innerHTML);
+      document.querySelector(`#main-wrapper > div.main-container > div.multipurpose-container.post-container > div.meta > small:nth-child(1) > span`).outerHTML = document.querySelector(`#main-wrapper > div.main-container > div.multipurpose-container.post-container > div.meta > small:nth-child(1) > span`).outerHTML.replace(/<span>/g, '<span class=" __mm">');
+      document.querySelector(`#main-wrapper > div.main-container > div.multipurpose-container.post-container > div.meta > small:nth-child(2) > span`).innerHTML = replace_numbers(document.querySelector(`#main-wrapper > div.main-container > div.multipurpose-container.post-container > div.meta > small:nth-child(2) > span`).innerHTML);
+    //};
+  }
+  catch(err) {}
+
+  try {
+    for (let i = 0; i < document.querySelectorAll(`#main-wrapper > div.main-container > div.pagination_wrapper > nav > ul > li`).length; i++) {
+      document.querySelector(`#main-wrapper > div.main-container > div.pagination_wrapper > nav > ul > li:nth-child(${i+1}) > a`).innerHTML = replace_numbers(document.querySelector(`#main-wrapper > div.main-container > div.pagination_wrapper > nav > ul > li:nth-child(${i+1}) > a`).innerHTML);
+    };
+  }
+  catch(err) {}
+  
+  }
+}
+</script><div class="scroll-to-top-container">
         <a id="scroll-to-top" href="#main-wrapper" class="hover-effect"><i class="fa fa-angle-up"></i></a>
       </div></div>
 

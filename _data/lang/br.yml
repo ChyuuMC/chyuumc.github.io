@@ -18,7 +18,8 @@ date:
   day: "%d"
   year: "%Y"
   years: [2020, 2021, 2022]
-  months: [January, February, March, April, May, June, July, August, September, October, November, December]
+  #months: [January, February, March, April, May, June, July, August, September, October, November, December]
+  months: [ဇန်နဝါရီလ, ဖေဖော်ဝါရီလ, မတ်လ, ဧပြီလ, မေလ, ဇွန်လ, ဂျူလိုင်လ, ဩဂုတ်လ, စက်တင်ဘာလ, အောက်တိုဘာလ, နိုဝင်ဘာလ, ဒီဇင်ဘာလ]
 
 not_found:
   header: ဒီမှာ ဘာမှမရှိဘူးဟ
