@@ -24,6 +24,9 @@ not_found:
   line1: The page you requested could not be found.
   line2: Try menu, or site search if available.
 
+buy-me-a-coffee:
+  ask: "If you enjoy this blog and find it helpful, you can buy me a book here!"
+
 no_translation_tooltip: No Translation
 
 navigation:

@@ -51,4 +51,6 @@ img: ":about.jpg"
 
 ### စာအုပ်ဝယ်ဖို့ မုန့်ဖိုး ပေးနိုင်ပါတယ်။
 ခြူး ရေးသားတဲ့ ဆောင်းပါများကို ကြိုက်နှစ်သက်ပြီး နောက်ဆောင်းပါးများ ဆက်ရေးနိုင်ဖို့ ဒီလင့်(ခ) ကနေ ခြူးကို စာအုပ်ဝယ်ဖို့ မုန့်ဖိုး ပေးနိုင်ပါတယ်။
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="chyuu" data-color="#40DCA5" data-emoji="📖"  data-font="Cookie" data-text="Buy me a book" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+ <div style="transform: scale(0.55); transform-origin: 0% 0% 0px; margin-top:1em; margin-bottom:-2em;">
+      <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="chyuu" data-color="#40DCA5" data-emoji="📖"  data-font="Poppins" data-text="Buy me a book" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+    </div>

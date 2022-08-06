@@ -47,5 +47,7 @@ The goal of the English version of this page is to help the first years in their
 I also have a Burmese version of this page where I share my knowlege of studying overseas to people in my country. If you have Google Chrome as a browser, it supports Burmese tranaslation to English so you are welcome to check it out, as well.
 
 ### You can buy me a book here!
-If you enjoyed my blogs or find them helpful, you can buy me a coffee here!
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="chyuu" data-color="#40DCA5" data-emoji="📖"  data-font="Cookie" data-text="Buy me a book" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+If you enjoyed my blogs or find them helpful, you can buy me a book here so that I can learn something new for my future blogs! 
+ <div style="transform: scale(0.7); transform-origin: 0% 0% 0px; margin-top:1em; margin-bottom:-1em;">
+      <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="chyuu" data-color="#40DCA5" data-emoji="📖"  data-font="Poppins" data-text="Buy me a book" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+    </div>

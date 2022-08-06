@@ -12,6 +12,12 @@
   <hr/>
   <div class="markdown-style">
     {{ include.post.content }}
+
+    <p>{{ site.data.lang[lng].buy-me-a-coffee.ask }}</p>
+
+    <div style="transform: scale(0.5); transform-origin: 0% 0% 0px; margin-top:1em; margin-bottom:-2em;">
+      <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="chyuu" data-color="#40DCA5" data-emoji="📖"  data-font="Poppins" data-text="Buy me a book" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+    </div>
     {%- if site.data.conf.posts.share_buttons == true %}
       {%- include post_common/share.html title = page_title url = include.post.url -%}
     {% endif -%}
