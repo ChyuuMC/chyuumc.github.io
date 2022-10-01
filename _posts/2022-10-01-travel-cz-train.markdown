@@ -52,7 +52,7 @@ The most common one is, České Dráhy, a Czech national transport carrier. You 
 
 Don’t forget to take advantage of their **student discount** option on both their website and application! At the “Passengers” section, choose **Junior 18-25 years** and **ISIC card** options. You must have a valid (unexpired) ISIC (International Student Identity Card) and be less than 26 years old. Once you are on the train, train conductor will ask you for your purchased ticket and your ISIC so make sure you bring your ISIC along with you everywhere you travel. With ISIC, you will get 50% discount on all Czech train and bus tickets.
 
-Some but not all of their trains offer free wifi. Type in <cdwifi.cz> on your phone and you will be redirected to their wifi connecting page.
+Some but not all of their trains offer free wifi. Type in cdwifi.cz on your phone and you will be redirected to their wifi connecting page.
 
 #### Regiojet 
 
