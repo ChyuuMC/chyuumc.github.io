@@ -74,23 +74,23 @@ To find your train, you  have to look for blue notice board labelled with ‘ODJ
 
 On the ‘ODJEZD’ board, you will find rows with these titles in Czech:
 
-‘Vlak = train’ 
+**Vlak** means 'train'.
 
-‘Číslo = number’ 
+**Číslo** means 'number'. 
 
-‘Jméno = name’ 
+**Jméno** in this case is the 'name of the train'. 
 
-‘Doprav.’ is a short for of a Czech word that means ‘carrier’ and here you will find the company of the train here. For example, ‘ČD’ for České Dráhy.
+**Doprav.** is a short for of a Czech word that means ‘carrier’ and here you will find the company of the train here. For example, ‘ČD’ for České Dráhy.
 
-‘Cilová stanice = destination station’. It is the last station that the train will stop. Note that last station might not be the same as the station you will get down. Don’t worry if you can’t find the name of your visiting city here.
+**Cilová stanice** means 'destination station’. It is the last station that the train will stop. Note that last station might not be the same as the station you will get down. Don’t worry if you can’t find the name of your visiting city here.
 
-’Směr jízdy = train direction’. Here, you can find a list of major cities that your train will stop in the middle. Again, you may or may not find your visiting city here. 
+**Směr jízdy** means 'train direction’. Here, you can find a list of major cities that your train will stop in the middle. Again, you may or may not find your visiting city here. 
 
-‘Pravidelný odjezd = regular departure time’. It means that the original time your train is intended to leave. It is very common that the train here has a lot of delay, especially during strong wind conditions, so don’t forget to plan your trip ahead.
+**Pravidelný odjezd** means 'regular departure time’. It means that the original time your train is intended to leave. It is very common that the train here has a lot of delay, especially during strong wind conditions, so don’t forget to plan your trip ahead.
 
-’Nást.’ is a short form of the Czech word that means ‘platform’.  This is the **most important** section you are looking for. Here you will find numbers written in these ways: 3/2, 3/2J, 3/2S or 1/2a, just to give a few examples. I will explain you what they mean in the next section.
+**Nást.** is a short form of the Czech word that means ‘platform’.  This is the **most important** section you are looking for. Here you will find numbers written in these ways: 3/2, 3/2J, 3/2S or 1/2a, just to give a few examples. I will explain you what they mean in the next section.
 
-‘Zpoždění = delay’ in minutes. 
+**Zpoždění** means 'delay’ and it is shown in minutes. 
 
 I hope you enjoyed your brief Czech language session ;)
 
