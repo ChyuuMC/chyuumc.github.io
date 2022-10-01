@@ -1,6 +1,6 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: How to get around in Czech Republic (via train)?
+lng_pair: howtogetaroundinczechrepublicviatrain
 title: "How to get around in Czech Republic (via train)?"
 
 # post specific
@@ -38,7 +38,7 @@ date: 2022-10-01 21:35:00 +0200
 ---
 <!-- outline-start -->
 
-![CzechTrain](:IMG_2249.jpg){:data-align="center"}
+![Czech Train](:IMG_2249.jpg){:data-align="center"}
 
 n this post, you’ll learn about Czech Republic train transport, where to get tickets, how to find platforms and which apps to get to get around Czech Republic easily.
 
