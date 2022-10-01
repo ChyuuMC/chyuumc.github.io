@@ -106,7 +106,7 @@ Once you are on the train, look for the destination station and the continuous d
 
 #### iDOS
 
-One major app that will help you with travelling around Czech Republic is iDOS on [Andriod] (https://play.google.com/store/apps/details?id=cz.mafra.jizdnirady&hl=en&gl=US) and on [Apple](https://apps.apple.com/cz/app/j%C3%ADzdn%C3%AD-%C5%99%C3%A1dy-idos/id473503749). At the top of the app, you can choose “All timetables”, “Trains + Buses”, “Hradec Kralove” and all the cities of Czech Republic. Make sure you have your location always turned on while using this app. 
+One major app that will help you with travelling around Czech Republic is iDOS on [Andriod](https://play.google.com/store/apps/details?id=cz.mafra.jizdnirady&hl=en&gl=US) and on [Apple](https://apps.apple.com/cz/app/j%C3%ADzdn%C3%AD-%C5%99%C3%A1dy-idos/id473503749). At the top of the app, you can choose “All timetables”, “Trains + Buses”, “Hradec Kralove” and all the cities of Czech Republic. Make sure you have your location always turned on while using this app. 
 
 Type in the name of your current stop, and the final stop. Press Search. You will find several connections available for you.  Press on one of the connections. On the top right corner, you will find a Map icon. Here, you can see your current location, your starting station with a green flag and final station with a red flag (hahaha). You can also see where your ride is currently at. This map function is very useful when you are travelling to different city and you don’t know where the nearest station is. GoogleMaps helps but this is more helpful.
 
