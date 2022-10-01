@@ -16,7 +16,7 @@ img: ":IMG_2249.jpg"
 #comments_disable: true
 
 # publish date
-date: 2022-10-01 21:35:00 +0200
+date: 2022-10-01 22:16:00 +0200
 
 # seo
 # if not specified, date will be used.
@@ -48,7 +48,7 @@ For train travel, there are several carriers that operate on Czech railways.
 
 #### České Dráhy
 
-The most common one is, České Dráhy, a Czech national transport carrier. You can fin them on their website [here](https://www.cd.cz/en/default.htm) or for easy access, you can download their app called Můj vlak (My train) [here] (https://www.cd.cz/typy-jizdenek/jak-koupit-jizdenku/-26327/). Both of them offers Czech and English language options. You can also check your train schedule and your train’s platform numbers in the app and the website. When you purchase from their website or their application, You can have free reservation option depending on your train. Reservations will be useful if you are travelling on crowded hours from Prague to Hradec such as on Sunday nights.
+The most common one is, České Dráhy, a Czech national transport carrier. You can fin them on their website [here](https://www.cd.cz/en/default.htm) or for easy access, you can download their app called Můj vlak (My train) [here](https://www.cd.cz/typy-jizdenek/jak-koupit-jizdenku/-26327/). Both of them offers Czech and English language options. You can also check your train schedule and your train’s platform numbers in the app and the website. When you purchase from their website or their application, You can have free reservation option depending on your train. Reservations will be useful if you are travelling on crowded hours from Prague to Hradec such as on Sunday nights.
 
 Don’t forget to take advantage of their **student discount** option on both their website and application! At the “Passengers” section, choose **Junior 18-25 years** and **ISIC card** options. You must have a valid (unexpired) ISIC (International Student Identity Card) and be less than 26 years old. Once you are on the train, train conductor will ask you for your purchased ticket and your ISIC so make sure you bring your ISIC along with you everywhere you travel. With ISIC, you will get 50% discount on all Czech train and bus tickets.
 
@@ -60,7 +60,7 @@ This is a private train company founded in Brno, Czech Republic. You can identif
 
 Their train offers three classes such as ‘Standard’, ‘Relax’ and ‘Business’. All their couches are spacious and comfortable. My preference is a ‘Relax’ class where they serve free water, Relax class food and drink menu option, and Relax class super spacious leather couches. They also offer sleeping couches on their night train to cities outside of Czech Republic. 
 
-Regiojet also accepts ISIC. The same conditions applies as in České Dráhy. They also offers bus travel within Czech Republic and in Europe. You can buy Regiojet tickets on their [website] https://regiojet.com and on their [application] https://regiojet.com/services/app. Both of Regiojet website and app offers English language and option to pay in both Euros and Czech crowns (CZK).
+Regiojet also accepts ISIC. The same conditions applies as in České Dráhy. They also offers bus travel within Czech Republic and in Europe. You can buy Regiojet tickets on their [website](https://regiojet.com) and on their [application](https://regiojet.com/services/app). Both of Regiojet website and app offers English language and option to pay in both Euros and Czech crowns (CZK).
 
 There are other companies (less frequently used by me) such as [LeoExpress](https://www.leoexpress.com/en) and [Arriva](https://www.arriva.cz).  They both also offers ISIC discount. LeoExpress can be more expensive than the above two carriers I mentioned. Arriva is a new company and is currently working together with České Dráhy. You might find yourself in one of Arriva’s trains when you buy tickets from České Dráhy website.
 
@@ -88,7 +88,7 @@ On the ‘ODJEZD’ board, you will find rows with these titles in Czech:
 
 ‘Pravidelný odjezd = regular departure time’. It means that the original time your train is intended to leave. It is very common that the train here has a lot of delay, especially during strong wind conditions, so don’t forget to plan your trip ahead.
 
-’Nást.’ is a short form of the Czech word that means ‘platform’.  This is the *most important* section you are looking for. Here you will find numbers written in these ways: 3/2, 3/2J, 3/2S or 1/2a, just to give a few examples. I will explain you what they mean in the next section.
+’Nást.’ is a short form of the Czech word that means ‘platform’.  This is the **most important** section you are looking for. Here you will find numbers written in these ways: 3/2, 3/2J, 3/2S or 1/2a, just to give a few examples. I will explain you what they mean in the next section.
 
 ‘Zpoždění = delay’ in minutes. 
 
@@ -106,7 +106,7 @@ Once you are on the train, look for the destination station and the continuous d
 
 #### iDOS
 
-One major app that will help you with travelling around Czech Republic is iDOS on [Andriod] (https://play.google.com/store/apps/details?id=cz.mafra.jizdnirady&hl=en&gl=US)  and on [Apple](https://apps.apple.com/cz/app/j%C3%ADzdn%C3%AD-%C5%99%C3%A1dy-idos/id473503749). At the top of the app, you can choose “All timetables”, “Trains + Buses”, “Hradec Kralove” and all the cities of Czech Republic. Make sure you have your location always turned on while using this app. 
+One major app that will help you with travelling around Czech Republic is iDOS on [Andriod] (https://play.google.com/store/apps/details?id=cz.mafra.jizdnirady&hl=en&gl=US) and on [Apple](https://apps.apple.com/cz/app/j%C3%ADzdn%C3%AD-%C5%99%C3%A1dy-idos/id473503749). At the top of the app, you can choose “All timetables”, “Trains + Buses”, “Hradec Kralove” and all the cities of Czech Republic. Make sure you have your location always turned on while using this app. 
 
 Type in the name of your current stop, and the final stop. Press Search. You will find several connections available for you.  Press on one of the connections. On the top right corner, you will find a Map icon. Here, you can see your current location, your starting station with a green flag and final station with a red flag (hahaha). You can also see where your ride is currently at. This map function is very useful when you are travelling to different city and you don’t know where the nearest station is. GoogleMaps helps but this is more helpful.
 
