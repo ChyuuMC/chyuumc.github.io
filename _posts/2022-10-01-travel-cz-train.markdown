@@ -46,7 +46,7 @@ Intercity wise, most people in Czech Republic prefer a public transport, especia
 
 For train travel, there are several carriers that operate on Czech railways. 
 
-#České Dráhy#
+#### České Dráhy
 
 The most common one is, České Dráhy, a Czech national transport carrier. You can fin them on their website [here](https://www.cd.cz/en/default.htm) or for easy access, you can download their app called Můj vlak (My train) [here] (https://www.cd.cz/typy-jizdenek/jak-koupit-jizdenku/-26327/). Both of them offers Czech and English language options. You can also check your train schedule and your train’s platform numbers in the app and the website. When you purchase from their website or their application, You can have free reservation option depending on your train. Reservations will be useful if you are travelling on crowded hours from Prague to Hradec such as on Sunday nights.
 
@@ -54,7 +54,7 @@ Don’t forget to take advantage of their **student discount** option on both th
 
 Some but not all of their trains offer free wifi. Type in <cdwifi.cz> on your phone and you will be redirected to their wifi connecting page.
 
-#Regiojet# 
+#### Regiojet 
 
 This is a private train company founded in Brno, Czech Republic. You can identify them at the Czech train stations by their distinct yellow wagons. Regiojet is a perfect option if you want to travel to Moravia region of Czech Republic (for example: Brno, Ostrava, Olomouc). 
 
@@ -64,7 +64,7 @@ Regiojet also accepts ISIC. The same conditions applies as in České Dráhy. Th
 
 There are other companies (less frequently used by me) such as [LeoExpress](https://www.leoexpress.com/en) and [Arriva](https://www.arriva.cz).  They both also offers ISIC discount. LeoExpress can be more expensive than the above two carriers I mentioned. Arriva is a new company and is currently working together with České Dráhy. You might find yourself in one of Arriva’s trains when you buy tickets from České Dráhy website.
 
-#How to find your train in Czech train stations?#
+#### How to find your train in Czech train stations?
 
 This is one of the most challenging part of Czech train travel: to actually find your train! 
 
@@ -104,7 +104,7 @@ Let’s say you have a train with platform 3/2S. You will look for the 3rd exit 
 
 Once you are on the train, look for the destination station and the continuous display of cities in between on the board above you. If you cannot find your visiting station, you might be on the wrong train. You can step out and ask for train conductor for help. 
 
-#iDOS#
+#### iDOS
 
 One major app that will help you with travelling around Czech Republic is iDOS on [Andriod] (https://play.google.com/store/apps/details?id=cz.mafra.jizdnirady&hl=en&gl=US)  and on [Apple](https://apps.apple.com/cz/app/j%C3%ADzdn%C3%AD-%C5%99%C3%A1dy-idos/id473503749). At the top of the app, you can choose “All timetables”, “Trains + Buses”, “Hradec Kralove” and all the cities of Czech Republic. Make sure you have your location always turned on while using this app. 
 
