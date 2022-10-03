@@ -40,7 +40,6 @@ date: 2022-10-03 18:55:00 +0200
 
 ![Autumn in Hradec](:IMG_7556.jpg){:data-align="center"}
 
-Where to find what - Anatomy edition
 
 Here, you will find out where to find your lab coats, lab shoes, Anatomy dissection kits, here in Hradec Kralove. In person or online.
 
