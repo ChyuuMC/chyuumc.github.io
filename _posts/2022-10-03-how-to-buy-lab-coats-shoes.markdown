@@ -43,7 +43,7 @@ date: 2022-10-03 18:55:00 +0200
 
 Here, you will find out where to find your lab coats, lab shoes, Anatomy dissection kits, here in Hradec Kralove. In person or online.
 
-During the first year, our university will have one day of sale for lab coats and shoes. However, some students might have missed the sale or have their sizes sold out. No worries. I have a solution for ya. 
+Every year, our university will have one day of sale for lab coats and shoes. However, some students might have missed the sale or have their sizes sold out. No worries. I have a solution for ya. 
 
 #### In person 
 
@@ -55,7 +55,7 @@ At the centre of Hradec Kralove, near the bus-stop **Adalbertinum**, you can fin
 
 For those who wants to have more options, I have two websites suggestions for lab coats and shoes. 
 
-**Infinite Medstyle** is a Czech website that is founded by three Czech alumni of our Faculty. Here you can find Lab-coats for [Women](https://www.infinitemedstyle.cz/plaste-2/) or for [Men](https://www.infinitemedstyle.cz/plaste-3/). They also sell [lab shoes](https://www.infinitemedstyle.cz/obuv--ponozky/) and many [accessories](https://www.infinitemedstyle.cz/studium/) such as Anatomy models and dissection kits. Don’t forget to check out there stethoscope selection, as well.
+**Infinite Medstyle** is a Czech website that is founded by three Czech alumni of our Faculty. Here you can find Lab-coats for [Women](https://www.infinitemedstyle.cz/plaste-2/) or for [Men](https://www.infinitemedstyle.cz/plaste-3/). They also sell [lab shoes](https://www.infinitemedstyle.cz/obuv--ponozky/) and many [accessories](https://www.infinitemedstyle.cz/studium/) such as Anatomy models and dissection kits. Don’t forget to check out their stethoscope selection, as well.
 
 Another website that I personally used before is called **Medical Uniforms** and they also sell lab coats for both [Men](https://www.medical-uniforms.cz/panske-plaste/) and [Women](https://www.medical-uniforms.cz/zeny-laboratorni-plaste/).  Here, you can find the selection of their [lab shoes](https://www.medical-uniforms.cz/zdravotnicka-obuv/).  
 
