@@ -43,7 +43,7 @@ date: 2022-10-03 18:55:00 +0200
 
 Here, you will find out where to find your lab coats, lab shoes, Anatomy dissection kits, here in Hradec Kralove. In person or online.
 
-During the first year, our university will have a day of sale of lab coats and shoes. However, some students might have missed the sale or have their sizes sold out. No worries. I have a solution for ya. 
+During the first year, our university will have one day of sale for lab coats and shoes. However, some students might have missed the sale or have their sizes sold out. No worries. I have a solution for ya. 
 
 #### In person 
 
