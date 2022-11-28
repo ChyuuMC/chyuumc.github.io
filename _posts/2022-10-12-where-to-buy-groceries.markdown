@@ -11,7 +11,7 @@ category: firstyear_shopping
 # multiple tag entries are possible
 tags: [shopping, groceries, onlineshops, tea, basmati, nuts]
 # thumbnail image for post
-img: ":IMG_2562.jpg"
+img: ":IMG_0423.webp"
 # disable comments on this page
 #comments_disable: true
 
@@ -38,7 +38,7 @@ date: 2022-10-12 15:45:00 +0200
 ---
 <!-- outline-start -->
 
-![Univerzita Karlova Hradec](:IMG_2562.jpg){:data-align="center"}
+![Futurum Hradec](:IMG_0423.webp){:data-align="center"}
 
 
 In this blog, you will find out where you can buy groceries in Hradec Kralove, in person or online. 
@@ -94,4 +94,4 @@ For tea lovers, [ManuTea.cz](https://www.manutea.cz/) is the perfect website for
 
 [Dookan](https://dookan.com/) is the main supplier of my daily need for basmati rice. They also offer selections of Indian spices, as well as, snacks and fresh vegetables. 
 
-There you go! Enjoy shopping for your groceries!
+There you go! Enjoy shopping for your groceries! 🛍
