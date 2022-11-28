@@ -42,16 +42,16 @@ date: 2022-11-28 20:30:00 +0200
 
 
  
-As somebody who is originally from a region of 95% and above humidity, facing a dry winter weather for the first time was not easy.  I had cracked skin to a point where it starts to bleed especially at my knuckles. Since then I started to explore ways to keep my skin hydrated and protected from the wind and cold.
+As somebody who came from a region that has 95% and above relative humidity, facing a dry winter weather for the first time was not easy.  I had cracked skin especially on my knuckles to a point where it starts to bleed. Since then I started to explore ways to keep my skin hydrated and protected from the wind and cold.
 
 
 
-### Body care
+#### Body care
 
 It is pretty simple. I just need two things: body cream and hand cream.
 
 
-##### Body Cream
+###### Body Cream
 
 Look for a light weight moisturiser. I would recommend these:
 
@@ -60,7 +60,7 @@ Look for a light weight moisturiser. I would recommend these:
 * [CeraVe Moisturising Lotion](https://www.notino.cz/cerave/moisturizers-hydratacni-mleko-na-telo-a-oblicej-pro-suchou-az-velmi-suchou-pokozku/) is another  light-weight lotion that can be used for face and body. However, I would recommend using for body only. Unlike the Neutrogena one, it contain ceramides that are beneficial for skin barrier.  My skin is more towards very dry side. Therefore, I prefer this moisturiser for summer season instead.
 
 
-##### Hand Cream
+###### Hand Cream
 
 For hand creams, I prefer a thicker, richer formulas that are highly occlusive. They come in the forms of balms or butter.
 
@@ -73,12 +73,12 @@ For hand creams, I prefer a thicker, richer formulas that are highly occlusive. 
 
 
 
-### Face care
+#### Face care
 
 All your face need is a good moisturiser and a face wash. That’s the basic!
 
 
-##### Face Wash
+###### Face Wash
 
 Opt for a nourishing and gentle face wash. Do not use face washes for acne that contain micro-beads for facial skin since they can dry out the skin and create scratches on the skin surface. 
 
@@ -91,7 +91,7 @@ Opt for a nourishing and gentle face wash. Do not use face washes for acne that 
 * [CeraVe SA Smoothing Cleanser](https://www.notino.cz/cerave/sa-cistici-a-zjemnujici-emulze-pro-normalni-a-suchou-pokozku/) is an exfoliating face wash. Instead of using physical exfoliators that includes micro beads, this cleanser use Salicylic Acid that breaks down the dark skin cells on your face that make your skin looks dull. After washing, your new skin layer will surface and it’ll leave your face glow. Note that this cleanser should be use just once a week, to be on a safe margin. Overusing this can make your skin dryer, too.
 
 
-##### Face cream 
+###### Face cream 
 
 * [La Roche-Posay Toleriane Sensitive Rich](https://www.notino.cz/la-roche-posay/toleriane-sensitive-rich-prebioticky-hydratacni-krem-pro-zmirneni-citlivosti-pleti/) is a face cream that is suitable for all skin type especially for dry winter skin. It contains my favourite ingredients for my face such as squalene and niacinamide. 
 
@@ -110,12 +110,12 @@ Opt for a nourishing and gentle face wash. Do not use face washes for acne that 
 
 
 
-### Hair care
+#### Hair care
 
 My long hair used to be really dry and brittle during winter.  Here are a few tips on how to avoid that! 
 
 
-##### Shampooing 
+###### Shampooing 
 
 Use a **regular shampoo**. Instead of using hot water to wash your hair, use a lukewarm water. Double shampoo your hair: First, use a small amount of shampoo on the damp hair. Then wash it off. Then, shampoo your hair normally. This method use less shampoo and make more foam in your hair which makes washing easier. 
 
@@ -124,7 +124,7 @@ After the shampoo starting to foam, I use a hair massage brush like [this one](h
 If you have really oily scalp, put a small amount of jojoba oil on your finger tips, rub it onto the roots of your hair and wait about 10 minute then shampoo your hair.
 
 
-##### Conditioning
+###### Conditioning
 
 Conditioner, masks, and oils. They all fall into this conditioning category. 
 
