@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: wheretobuygroceriesinhradeckralove
-title: "Where to buy what - Groceries edition"
+title: "Where to buy what - Groceries edition 🛒"
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
