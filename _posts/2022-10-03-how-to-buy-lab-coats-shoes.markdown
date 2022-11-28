@@ -43,7 +43,7 @@ date: 2022-10-03 18:55:00 +0200
 
 Here, you will find out where to buy your lab coats, lab shoes, Anatomy dissection kits, here in Hradec Kralove. In person or online.
 
-Every year, our university will have one day of sale for lab coats and shoes. However, some students might have missed the sale or have their sizes sold out. No worries. I have a solution for ya. 
+Every year, our university will have one day of sale for lab coats and shoes. However, some students might have missed the sale or have their sizes sold out. No worries. I have a solution for ya. :health_worker:
 
 #### In person 
 
@@ -59,12 +59,12 @@ For those who wants to have more options, I have two websites suggestions for la
 
 Another website that I personally used before is called **Medical Uniforms** and they also sell lab coats for both [Men](https://www.medical-uniforms.cz/panske-plaste/) and [Women](https://www.medical-uniforms.cz/zeny-laboratorni-plaste/).  Here, you can find the selection of their [lab shoes](https://www.medical-uniforms.cz/zdravotnicka-obuv/).  
 
-Tip for when browsing Czech online stores that doesn’t support English translation: Install Google Chrome on your device. While you are in the page, right click or double-click at the empty are on the website. Press **Translate to English**. Tada!
+Tip for when browsing Czech online stores that doesn’t support English translation: Install Google Chrome on your device. While you are in the page, right click or double-click at the empty are on the website. Press **Translate to English**. Tada! :tada:
 
 #### How to choose your lab-coats and shoes?
 
-For your **lab-coats**, you might want to look for some _affordable_ options. In your first year, you will have Anatomy Practicals that deals with cadavers. Therefore, it is very easy to get your coats stained and have the smell of the practical lab (eg. formaldehyde) lingering on your coat. I would advice you to get two lab-coats. One for anatomy practicals and other for every other subjects. Also, don’t be lazy to wash your coats since your class-mates and professors can smell you every single morning. After you reach third year, get a really nice lab-coat that will last you until sixth year. 
+:lab_coat: For your **lab-coats**, you might want to look for some _affordable_ options. In your first year, you will have Anatomy Practicals that deals with cadavers. Therefore, it is very easy to get your coats stained and have the smell of the practical lab (eg. formaldehyde) lingering on your coat. I would advice you to get two lab-coats. One for anatomy practicals and other for every other subjects. Also, don’t be lazy to wash your coats since your class-mates and professors can smell you every single morning. After you reach third year, get a really nice lab-coat that will last you until sixth year. 
 
-For your **lab-shoes**, I would recommend to get _a pair of closed-toe white shoes_ that are made of hard plastic. You don’t know what can spill on your feet during Anatomy practicals or in Biochemistry labs. Get a pair of good quality shoes that will last you until sixth year and take a good care of them. Tip: always carry your lab shoes in a small plastic bag since you won’t want the dirt from the shoes to mix in with your pristine white coats.
+:athletic_shoes: For your **lab-shoes**, I would recommend to get _a pair of closed-toe white shoes_ that are made of hard plastic. You don’t know what can spill on your feet during Anatomy practicals or in Biochemistry labs. Get a pair of good quality shoes that will last you until sixth year and take a good care of them. Tip: always carry your lab shoes in a small plastic bag since you won’t want the dirt from the shoes to mix in with your pristine white coats.
 
 There you go! Enjoy your practicals!
