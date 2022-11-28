@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: howtogetaroundinczechrepublicviatrain
-title: "How to get around in Czech Republic (via train)?"
+title: "How to get around in Czech Republic (via train)? 🚂"
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -40,7 +40,7 @@ date: 2022-10-01 22:16:00 +0200
 
 ![Czech Train](:IMG_2249.jpg){:data-align="center"}
 
-In this post, you’ll learn about Czech Republic train transport, where to get tickets, how to find platforms and which apps to get to get around Czech Republic easily.
+In this post, you’ll learn about Czech Republic train transport, where to get tickets, how to find platforms and which apps to get to get around Czech Republic easily. 🚞
 
 Intercity wise, most people in Czech Republic prefer a public transport, especially train travel, or via personal car. If you are a new student in Czech Republic and cannot afford to rent or buy your own car, you will find that travelling via train or bus is the most convenient way for you. 
 
@@ -64,7 +64,7 @@ Regiojet also accepts ISIC. The same conditions applies as in České Dráhy. Th
 
 There are other companies (less frequently used by me) such as [LeoExpress](https://www.leoexpress.com/en) and [Arriva](https://www.arriva.cz).  They both also offers ISIC discount. LeoExpress can be more expensive than the above two carriers I mentioned. Arriva is a new company and is currently working together with České Dráhy. You might find yourself in one of Arriva’s trains when you buy tickets from České Dráhy website.
 
-#### How to find your train in Czech train stations?
+#### How to find your train in Czech train stations? 🚉
 
 This is one of the most challenging part of Czech train travel: to actually find your train! 
 
@@ -110,4 +110,4 @@ One major app that will help you with travelling around Czech Republic is iDOS o
 
 When you are in the app, type in the name of your current stop, and the final stop. Press Search. You will find several connections available for you.  Press on one of the connections. On the top right corner, you will find a Map icon. Here, you can see your current location, your starting station with a green flag and final station with a red flag (wink wink). You can also see where your ride is currently at. This map function is very useful when you are travelling to different city and you don’t know where the nearest station is. GoogleMaps helps but iDOS is more helpful, in my opinion.
 
-Happy travelling!
+Happy travelling! 🚏
