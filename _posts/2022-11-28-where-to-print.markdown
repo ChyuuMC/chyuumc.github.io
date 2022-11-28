@@ -9,7 +9,7 @@ author: Chyuu Myet Chyei
 # multiple category is not supported
 category: firstyear_printing
 # multiple tag entries are possible
-tags: [printing, paper, online,]
+tags: [printing, paper, online, print]
 # thumbnail image for post
 img: ":IMG_7739.jpg"
 # disable comments on this page
@@ -39,6 +39,7 @@ date: 2022-11-28 14:40:00 +0200
 <!-- outline-start -->
 
 ![Elbe and Orlice](:IMG_7739.jpg){:data-align="center"}
+
 
 
 If you are a new student to Hradec Kralove, you might have already heard of [Kodak](https://g.page/kodak-express-no200?share) for printing final notes and taking passport photos. 
