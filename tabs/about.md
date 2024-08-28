@@ -35,10 +35,10 @@ img: ":about.jpg"
 ---
 
 ### Who am I?
-I am a girl from Myanmar (formerly known as Burma). Back in 2016, I moved to Czech Republic, specifically to Hradec Kralove, to study general medicine. Currently, I am in the 6th year of my studies. 
+I am a girl from Myanmar (formerly known as Burma). Back in 2016, I moved to Czech Republic, specifically to Hradec Kralove, to study general medicine. Currently, I am studying Information Management in UHK. 
 
 ### Why did I create this website?
-I remember my days back in the first year. I came here alone without knowing anybody here. First year was difficult for me in terms of adapting to the new environment. I didn't know how to dress for the winter, what to eat in Czech Republic, where to find what nor how to communicate in Czech language. 
+I remember my days back in the first year. I came here alone without knowing anybody here. First year was difficult for me in terms of adapting to the new environment. I didn't know how to dress for the winter, what to eat in Czech Republic, nor how to communicate in Czech language. 
 
 ### The goal
 The goal of the English version of this page is to help the first years in their adaptaion process, especially outside their studies. 
