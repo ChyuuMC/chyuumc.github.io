@@ -44,10 +44,13 @@ In this article, you will find out about ways get to Hradec Kralove after you've
 
 This journey takes approximately three hours. Let me brake it down for you. The first part is to get **from Prague Airport to Prague Main Train Station**. The second part is **from Prague Main Train Station to Hradec Kralove**. 
 
-#### Prague Airport to Prague Main Train Staion
-Prague Airport also known as **Letiště Praha** is located at the outskirt of the city of Prague. Meanwhile, Prague Main Train Station also known as **Praha Hlavní Nádraží** is situated near the Prague city centre. It takes about 45 minutes to commute between them. There are two ways to get to Prague Main Train Station from Prague Airport. **AE bus** and **Prague Public Transport**.
 
-##### Airport Express Bus
+
+#### Prague Airport to Prague Main Train Staion
+Prague Airport also known as **Letiště Praha** is located at Prague's outskirts. Meanwhile, Prague Main Train Station also known as **Praha Hlavní Nádraží** is situated near the Prague city centre. It takes about 45 minutes to commute between them. There are two ways to get to Prague Main Train Station from Prague Airport: **Airport Express (AE) bus** and **Prague Public Transport**.
+
+
+##### Airport Express (AE) Bus
 If you are a first time traveller to Czech Republic, this is your best option to get to the city centre. It takes you directly to Prague Main Train Station with just 100 Czech Crowns (4 Euros). You don’t have to pay extra for luggages and the bus comes with a spacious luggage storage. 
 
 ###### AE bus timetable
@@ -58,30 +61,33 @@ There are several ways:
 - Directly from the bus driver - payments cards accepted
 - [Information Centres at Prague Airport](https://www.dpp.cz/en/travelling/transport-to-airport/information-centres-at-prague-airport)
 - Czech Railways a.k.a České Dráhy website or app
-If you want to plan your trip in advance, you can purchase your AE ticket in cd.cz or **Můj Vlak** app. Type in from ‘Praha letiště/Airport (BUS)’ to ‘Praha hl.n’. You will be able to purchase your ticket at your appropriate time of arrival and they will send you an email or show in the app the **QR code** as your ticket. Once you get on the bus, show the QR code to the bus driver and he will let you in. 
+If you want to plan your trip in advance, you can purchase your AE ticket in cd.cz or **Můj Vlak** app. Type in from ‘Praha letiště/Airport (BUS)’ to ‘Praha hl.n’. You will be able to purchase your ticket with the departure time of your choice. After your purchase, you will recieve a ticket with **QR code** in your email or in the app. Once you get on the bus, show the QR code to the bus driver and he will let you in. 
 
-Where can you find AE bus at the airport?
-There are two main terminals at Prague’s Vaclav Havel Airport. Terminal 1 is for flights outside of Schengen area. Terminal 2 is for flights inside of Schengen area. AE bus **only departs** from **Terminal 1**. If your flight landed at Terminal 2, exit until the common area. From there, it takes approximately 5-10 minutes to walk to Terminal 1. Exit from Terminal 1 to the street and you will find the bus stop for [AE bus](https://maps.app.goo.gl/dDNeoeRN4tambSc49). When you find a red post with the sign ‘Terminal 1, Platform G, AE’, you are in the right place!
+###### Where can you find AE bus at the airport?
+There are two main terminals at Prague’s Vaclav Havel Airport. Terminal 1 is for flights outside of Schengen area. Terminal 2 is for flights inside of Schengen area. **AE bus only departs from Terminal 1**. If your flight landed at Terminal 2, exit until the common area. From there, it takes approximately 5-10 minutes to walk to Terminal 1. Exit from Terminal 1 to the street and you will find the bus stop for [AE bus](https://maps.app.goo.gl/dDNeoeRN4tambSc49). When you find a red post with the sign ‘Terminal 1, Platform G, AE’, you are in the right place!
 
 When you exit the AE bus at the train station, you could be on the either side of the road. One side is with the [elevators](https://maps.app.goo.gl/8oSuKdtaDsaAFNad7) where the best way is to get to the train station is to take the elevators and go down to any floor below the road. The other side is next to the [train station building](https://maps.app.goo.gl/ac5PysjXfHLVmgF19) where you will get to the trains by taking an escalator to a floor downstairs. 
 
 Now you've arrived to the Prague Main Train Station!
 
-##### Prague Public Transport
-If this is your second time in Prague or you are feeling adventurous, you can try Prague Public Transport. If you are not travelling with multiple luggages or a heavy luggage, you might want to try this option. It is cheaper, only 40 czk, and takes about the same time as AE bus. 
 
-Where can you buy Public Transport tickets?
+##### Prague Public Transport
+If this is not your first time in Prague or you are feeling adventurous, you can try Prague Public Transport. If you are not travelling with multiple luggages or a heavy luggage, you might want to try this option. It is cheaper, only 40 czk, and takes about the same time as AE bus. 
+
+###### Where can you buy Public Transport tickets?
 - [Information Centres at Prague Airport](https://www.dpp.cz/en/travelling/transport-to-airport/information-centres-at-prague-airport)
-- Tickets booths at the bus stops - choose 90 min, 40 czk
+- Tickets booths at the bus stops - choose '90 min, 40 czk'
 - pid lítačka app - search: from ‘My location’ to ‘Hlavní Nádraží’
 In the app, you can buy tickets, search for exact time of your transport's departure and arrivals. When on the bus or metro, you don’t need to show your purchase ticket. You just need to show it only when there are ticket checks.
 
-Where can you find the public transport stops?
+###### Where can you find the public transport stops?
 You can find them in front of **both** Terminal 1 and Terminal 2. To get to the Main Train Station, get on to troll number **59**. 
 
 From 59, get down at the final station ‘Nádraží Veleslavín’ and go down to Green **Metro A** line. From there, take a metro to the stop **Muzeum**. At Muzeum, transfer to Red **Metro C** line and take one more stop to **Hlavní Nádraží** stop. 
 
 That was easy! You made it to the Prague Main Train Station!!
+
+
 
 #### Prague Main Train Station to Hradec Kralove Main Train Station
 This is the tricky part. Don’t worry. I’ve written in extensive detail about Czech train travel in this [article](https://chyuu.cz/posts/2022-10-01-travel-cz-train). 
@@ -92,11 +98,15 @@ To make things easy, I recommend purchasing the train tickets in **Můj vlak** a
 
 Once you get on the train, a train conductor will go around the train and ask for your tickets. That’s when you’ll present your QR code and/or a valic ISIC if you purchased a student price.
 
+
+
 #### Hradec Kralove Main Train Station to Palachova Student Dormitory
 
-Once you arrived to Hradec Kralove Main Train staion, you’ll find that you’ve reached your destination city. To get to your dorm, you can either get a taxi, sometimes they can rip you off if you don’t know Czech, or better yet, take a bus. 
+Once you arrived to Hradec Kralove Main Train staion, you’ll find that you’ve reached your destination city. To get to your dorm, you can get a **taxi** but sometimes they can rip you off if you don’t know Czech. Look for yellow painted taxis with 100 czk written all over it. Be reminded that those only take cash. You can also order a taxi in Hradec with Grab. 
 
-Bus tickets can be purchased at the bus driver, sometimes cash only, in Czech crowns, of course, or in an app **HopOn-DPMHK**. I recommend getting tickets from the bus driver or purchase at the kiosks next to the bus doors. The ticket is linked to your payment card. When the ticket checks come, present your payment card. More info [here](https://www.dpmhk.cz/en/5/Fare/). 
+Another option is to take a **bus**. It takes about 20 minutes to get to Palachova. You can also check your bus schedules on **iDOS** app.
+
+I recommend getting bus tickets from the bus driver or purchase at the tiny kiosks next to the bus doors. The ticket is linked to your payment card. When the ticket checks come, present your payment card. It will automatically purchase a 60 minutes ticket. More info [here](https://www.dpmhk.cz/en/5/Fare/). 
 
 Go to bus platform **D** and hop on to bus **24** or troll **4**. Get down at Palachova stop and walk to Palachova reception,
 

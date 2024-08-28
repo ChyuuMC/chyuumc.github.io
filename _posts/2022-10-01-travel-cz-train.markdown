@@ -52,9 +52,9 @@ The most common one is, České Dráhy, a Czech national transport carrier. You 
 
 When you purchase from their website or their application, You can have free reservation option depending on your train. If you are travelling with luggages, find the carriage with a luggage symbol. On the reservation page, select 'select seat from seating map' and you can choose your preferred seat. Reservations will be useful if you are travelling on crowded hours from Prague to Hradec Kralove such as on Sunday nights.
 
-After your purchase in their webiste or their app, they will send you a **QR code** to your email or in an app. Show this to your train conductor when they come to check for your ticket on the train.
+After your purchase in their webiste or their app, you will recieve your ticket with **QR code** to your email or in an app. Show this to your train conductor when they come to check for your ticket on the train.
 
-Don’t forget to take advantage of their **student discount** option on both their website and application! At the “Passengers” section, choose **Junior 18-25 years** and **ISIC card** options. You must have a valid (unexpired) ISIC (International Student Identity Card) and be less than 26 years old. Once you are on the train, train conductor will ask you for your purchased ticket and your ISIC so make sure you bring your ISIC along with you everywhere you travel. With ISIC, you will get 50% discount on all Czech train and bus tickets.
+Don’t forget to take advantage of their **student discount** option on both their website and application! At the “Passengers” section, choose **Junior 18-25 years** and **ISIC card**. You must have a valid (unexpired) ISIC (International Student Identity Card) and be less than 26 years old. Once you are on the train, train conductor will ask you for your purchased ticket and your ISIC so make sure you bring your ISIC along with you everywhere you travel. With ISIC, you will get 50% discount on all Czech train and bus tickets.
 
 Some but not all of their trains offer **free wifi**. Type in cdwifi.cz in one of your browsers and you will be redirected to their wifi connecting page.
 
