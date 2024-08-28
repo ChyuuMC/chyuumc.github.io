@@ -48,11 +48,15 @@ For train travel, there are several carriers that operate on Czech railways.
 
 #### České Dráhy
 
-The most common one is, České Dráhy, a Czech national transport carrier. You can fin them on their website [here](https://www.cd.cz/en/default.htm) or for easy access, you can download their app called Můj vlak (My train) [here](https://www.cd.cz/typy-jizdenek/jak-koupit-jizdenku/-26327/). Both of them offers Czech and English language options. You can also check your train schedule and your train’s platform numbers in the app and the website. When you purchase from their website or their application, You can have free reservation option depending on your train. Reservations will be useful if you are travelling on crowded hours from Prague to Hradec such as on Sunday nights.
+The most common one is, České Dráhy, a Czech national transport carrier. You can find them on their website [here](https://www.cd.cz/en/default.htm) or for easy access, you can download their app called Můj vlak (My train) [here](https://www.cd.cz/typy-jizdenek/jak-koupit-jizdenku/-26327/). Both of them offers Czech and English language options. You can also check your train schedule and your train’s platform numbers in the app and the website. 
+
+When you purchase from their website or their application, You can have free reservation option depending on your train. If you are travelling with luggages, find the carriage with a luggage symbol. On the reservation page, select 'select seat from seating map' and you can choose your preferred seat. Reservations will be useful if you are travelling on crowded hours from Prague to Hradec Kralove such as on Sunday nights.
+
+After your purchase in their webiste or their app, they will send you a **QR code** to your email or in an app. Show this to your train conductor when they come to check for your ticket on the train.
 
 Don’t forget to take advantage of their **student discount** option on both their website and application! At the “Passengers” section, choose **Junior 18-25 years** and **ISIC card** options. You must have a valid (unexpired) ISIC (International Student Identity Card) and be less than 26 years old. Once you are on the train, train conductor will ask you for your purchased ticket and your ISIC so make sure you bring your ISIC along with you everywhere you travel. With ISIC, you will get 50% discount on all Czech train and bus tickets.
 
-Some but not all of their trains offer free wifi. Type in cdwifi.cz in one of your browsers and you will be redirected to their wifi connecting page.
+Some but not all of their trains offer **free wifi**. Type in cdwifi.cz in one of your browsers and you will be redirected to their wifi connecting page.
 
 #### Regiojet 
 
@@ -106,8 +110,8 @@ Once you are on the train, look for the destination station and the continuous d
 
 #### iDOS
 
-One major app that will help you with travelling around Czech Republic is iDOS on [Andriod](https://play.google.com/store/apps/details?id=cz.mafra.jizdnirady&hl=en&gl=US) and on [Apple](https://apps.apple.com/cz/app/j%C3%ADzdn%C3%AD-%C5%99%C3%A1dy-idos/id473503749). At the top of the app, you can choose “All timetables”, “Trains + Buses”, “Hradec Kralove” and all the cities of Czech Republic. Make sure you have your location always turned on while using this app. 
+One major app that will help you with travelling around Czech Republic is iDOS on [Andriod](https://play.google.com/store/apps/details?id=cz.mafra.jizdnirady&hl=en&gl=US) and on [Apple](https://apps.apple.com/cz/app/j%C3%ADzdn%C3%AD-%C5%99%C3%A1dy-idos/id473503749). You can use filtered search. If you want to find your **buses in Hradec Kralove** for example, at the top of the app, you can choose “Trains + Buses”, “Hradec Kralove” and type in your to and from stops. Make sure you have your location always turned on while using this app. 
 
-When you are in the app, type in the name of your current stop, and the final stop. Press Search. You will find several connections available for you.  Press on one of the connections. On the top right corner, you will find a Map icon. Here, you can see your current location, your starting station with a green flag and final station with a red flag (wink wink). You can also see where your ride is currently at. This map function is very useful when you are travelling to different city and you don’t know where the nearest station is. GoogleMaps helps but iDOS is more helpful, in my opinion.
+When you are in the app, type in the name of your current stop, and the final stop. Press Search. You will find several connections available for you.  Press on one of the connections. On the top right corner, you will find a **Map icon**. Here, you can see your current location, your starting station with a green flag and final station with a red flag. You can also see where your ride is currently at. This map function is very useful when you are travelling to different city and you don’t know where the nearest station is. GoogleMaps helps but iDOS app is more helpful, in my opinion.
 
 Happy travelling! 🚏
