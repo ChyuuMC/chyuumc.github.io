@@ -45,7 +45,6 @@ In this article, you will find out about ways get to Hradec Kralove after you've
 This journey takes approximately three hours. Let me brake it down for you. The first part is to get **from Prague Airport to Prague Main Train Station**. The second part is **from Prague Main Train Station to Hradec Kralove**. 
 
 
-
 #### Prague Airport to Prague Main Train Staion
 Prague Airport also known as **Letiště Praha** is located at Prague's outskirts. Meanwhile, Prague Main Train Station also known as **Praha Hlavní Nádraží** is situated near the Prague city centre. It takes about 45 minutes to commute between them. There are two ways to get to Prague Main Train Station from Prague Airport: **Airport Express (AE) bus** and **Prague Public Transport**.
 
@@ -88,7 +87,6 @@ From 59, get down at the final station ‘Nádraží Veleslavín’ and go down 
 That was easy! You made it to the Prague Main Train Station!!
 
 
-
 #### Prague Main Train Station to Hradec Kralove Main Train Station
 This is the tricky part. Don’t worry. I’ve written in extensive detail about Czech train travel in this [article](https://chyuu.cz/posts/2022-10-01-travel-cz-train). 
 
@@ -97,7 +95,6 @@ To make things easy, I recommend purchasing the train tickets in **Můj vlak** a
 **Reservations** aren’t necessary but sometimes the trains can be super croweded. Reservations in these trains are free and here's how to do it. After you select your train, press ‘+ Add a reservation’, press ‘Seat automatically’ and then, ‘Select seat from the seating map’. Choose a seat in a carriage with luggage storage. For example, carriage 368. Luggages are free of charge. After purchasing your tickets, you will recieved a **QR code** with the details of your train in your app and your email.
 
 Once you get on the train, a train conductor will go around the train and ask for your tickets. That’s when you’ll present your QR code and/or a valic ISIC if you purchased a student price.
-
 
 
 #### Hradec Kralove Main Train Station to Palachova Student Dormitory
