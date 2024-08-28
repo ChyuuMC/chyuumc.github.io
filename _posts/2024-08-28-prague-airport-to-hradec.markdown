@@ -108,6 +108,6 @@ Another option is to take a **bus**. It takes about 20 minutes to get to Palacho
 
 I recommend getting bus tickets from the bus driver or purchase at the tiny kiosks next to the bus doors. The ticket is linked to your payment card. When the ticket checks come, present your payment card. It will automatically purchase a 60 minutes ticket. More info [here](https://www.dpmhk.cz/en/5/Fare/). 
 
-Go to bus platform **D** and hop on to bus **24** or troll **4**. Get down at Palachova stop and walk to Palachova reception,
+Go to bus platform **D** and hop on to bus **24** or troll **4**. Get down at Palachova stop and walk to Palachova reception.
 
 Congratulations!! You’ve made it to your destination! Take a good rest and I hope this article was helpful for you.
