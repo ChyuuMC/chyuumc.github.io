@@ -108,3 +108,5 @@ I recommend getting bus tickets from the bus driver or purchase at the tiny kios
 Go to bus platform **D** and hop on to bus **24** or troll **4**. Get down at Palachova stop and walk to Palachova reception.
 
 Congratulations!! You’ve made it to your destination! Take a good rest and I hope this article was helpful for you.
+
+If you need a visual aid, check out this [video](https://www.youtube.com/watch?v=XsXMMbcvNjA&t=312s) from UHK. It was made back in 2018 so the pricing and ways of buying tickets will be different.
