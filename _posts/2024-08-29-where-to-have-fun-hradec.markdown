@@ -54,19 +54,19 @@ If you are looking for places to decompress, here are a few places you might enj
 
 #### Kemp Stříbrný Rybník
 
-[Silver Lake Camp](https://maps.app.goo.gl/6FghWXcua9tnSPot5) is a place to be if you enjoy camping, beach volleyball and football. Check out the price list [here](https://www.kempstribrnyrybnik.cz/en/price-list-2024/#:~:text=BORROWING%20PRICE%20LIST). You can take a bus to this place from Na Kotli bus stop and at down at Stribrny rybnik stop. Bring your tent or make a short trip. Enjoy a beer or two next to a lake, take a walk along the forest behind the camp, play volleyball at their court or stay a night in your tent. The options are endless here. 
+[Silver Lake Camp](https://maps.app.goo.gl/6FghWXcua9tnSPot5) is a place to be if you enjoy camping, beach volleyball and football. Check out their price list [here](https://www.kempstribrnyrybnik.cz/en/price-list-2024/#:~:text=BORROWING%20PRICE%20LIST). You can take a bus to this place from Na Kotli bus stop and get down at Stribrny rybnik stop. Bring your tent or make a short trip. Enjoy a beer or two next to a lake, take a walk along the forest behind the camp, play volleyball at their court or stay a night in your tent. The options are endless here. 
 
 #### Lake Biřička
 
-[This lake](https://maps.app.goo.gl/3Ay5mac97PuiZ2JR8) is just a few minutes walk from Palachova dormitory. There are many walking and running trails around this lake. During the deep winter, the lake freeze up and the locals enjoy ice skating and ice hokey on this lake. The forest around it turns into a magical land with the winter snow.
+[This lake](https://maps.app.goo.gl/3Ay5mac97PuiZ2JR8) is just a few minutes walk from Palachova dormitory. There are many walking and running trails around this lake. During the deep winter, the lake freezes up and the locals enjoy ice skating and ice hokey on this lake. The forest around it turns into a magical winter land covered in snow.
 
 #### Milíř Lookout Tower
 
-If you are feeling advanturous and wants to go for a long walk, I recommend walking to this [tower](https://maps.app.goo.gl/3Ay5mac97PuiZ2JR8). It is about 2 hours walk from Palachova dormitory. From this place, you can see the beautiful views of Hradec urban landscape, Kunětická Hora castle in the distance and a Opatovice electric plant. If you are lucky, you might be able to grab a beer at a pub right below the tower.
+If you are feeling advanturous and wants to go for a long walk, I recommend walking to this [tower](https://maps.app.goo.gl/3Ay5mac97PuiZ2JR8). It is about 2 hours walk from Palachova dormitory. From this place, you can see beautiful views of Hradec urban landscape, Kunětická Hora castle in the distance and Opatovice electric plant. If you are lucky, you might be able to grab a beer at a pub right below the tower.
 
 #### Mětské Lesy 
 
-[Hradec Kralove city forest](https://www.mestske-lesy.cz/) is a green lush area mostly consists of pine trees is easily accessible from Palachova dormitory. You can go for a walk, jog, or cycling in this forest. It is pet friendly. If you have time, I recommend to check out [this place](https://maps.app.goo.gl/xL9jt9nE48sCSyE3A) where you can see red deers, muflons, wild boars, etc. 
+[Hradec Kralove city forest](https://www.mestske-lesy.cz/) is a lush green area, mostly consists of pine trees, is easily accessible from Palachova dormitory. You can go for a walk, jog, or cycling in this forest. It is pet friendly. If you have time, I recommend to check out [this place](https://maps.app.goo.gl/xL9jt9nE48sCSyE3A) where you can see red deers, muflons, wild boars, etc. 
 
 ### Indoor activities
 
@@ -90,7 +90,7 @@ If you are feeling advanturous and wants to go for a long walk, I recommend walk
 
 #### Pardubice
 
-The city of Pardubice boasts its first train station in the entire Czech Republic. Therefore, you will notice almost all the international trains go through this lovely city. But don’t forget to check out the city itself! It is just 20 minutes train ride from Hradec Kralove and just 10 minutes walk from Pardubice main train station to the city centre. There is a [Pardubice Castle](https://maps.app.goo.gl/p6EvzSAHiYoLwD816) with the East Bohemian Museum inside but the main attraction of the castle are the peacocks! After your day trip around the city, don’t forget to relax in this beautiful [Cafe Bajer](https://maps.app.goo.gl/bHEpcx1r4U8ZMaNT7) and grab a cup of coffee or drinks. 
+The city of Pardubice boasts its first train station in the entire Czech Republic. Therefore, you will notice that almost all the international trains go through this lovely city. But don’t forget to check out the city itself! It is just 20 minutes train ride from Hradec Kralove and just 10 minutes walk from Pardubice main train station to the city centre. There is a [Pardubice Castle](https://maps.app.goo.gl/p6EvzSAHiYoLwD816) with the East Bohemian Museum inside but the main attraction of the castle are the beautiful peacocks! After your day trip around the city, don’t forget to relax in this retro [Cafe Bajer](https://maps.app.goo.gl/bHEpcx1r4U8ZMaNT7) and grab a cup of coffee or drinks. 
 
 #### Dvůr Králové Zoo
 
@@ -102,10 +102,10 @@ The city of Pardubice boasts its first train station in the entire Czech Republi
 
 #### Ještěd Tower in Liberec
 
-This pagoda looking [tower](https://maps.app.goo.gl/6NaGmFSJVHQNHL746) is located in the city of Liberec. You can take a train to this city that takes about three and a half to three hours and take a tram to the base of the hill. From there, the climb is about an hour or two. The tower mainly serves as a television tower but inside is a three star hotel and a restaurant. I highly recommand to plan your lunch here for the panoramic view of Liberec region. This trip can be done in a day and you’ll still have a plenty of time to visit the city of Liberec itself.
+This pagoda looking [tower](https://maps.app.goo.gl/6NaGmFSJVHQNHL746) is located in the city of Liberec. You can take a train to this city from Hradec Kralove that takes about two and a half to three hours and then, take a tram to the base of the hill. From there, the climb is about an hour or two. The tower mainly serves as a television tower but inside it is a three star hotel and a restaurant. I highly recommand to plan your lunch here for the panoramic view of Liberec region. This trip can be done in a day and you’ll still have a plenty of time to visit the city of Liberec itself.
 
 #### Sněžka
 
-[The hightest peak in Czech Republic](https://maps.app.goo.gl/yXvYdi4ygcimeKFQ7). All you need to do is take an hour and a half bus or a train ride from Hradec Kralove to a city called [Pec pod Snezkou](https://maps.app.goo.gl/aH9LxiVMysPj3Kvb9) and hike for two hours. Check iDOS. There are also cable cars available to the top. You can totally do this trip in a day if you plan it well. There are stunning views on the top but make sure to go ther when there is a clear weather.  
+[The hightest peak in Czech Republic](https://maps.app.goo.gl/yXvYdi4ygcimeKFQ7). All you need to do is take an hour and a half bus or a train ride from Hradec Kralove to a city called [Pec pod Snezkou](https://maps.app.goo.gl/aH9LxiVMysPj3Kvb9) and hike for two hours. Check iDOS. There are also cable cars available to the top. You can totally do this trip in a day if you plan it well. There are stunning views on the top but make sure to go there when there is a clear weather.  
 
-I hope you found a few places to help you beat your final exam stress and the winter blues. 
+I hope you found a few places to help you find new places around Hradec and to beat the winter blues. 
