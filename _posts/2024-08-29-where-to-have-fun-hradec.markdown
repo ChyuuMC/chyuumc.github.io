@@ -11,7 +11,7 @@ category: hradeckralove_fun
 # multiple tag entries are possible
 tags: [parks, swimming, pool, nature, hradec kralove]
 # thumbnail image for post
-img: ":IMG_6372.JPG"
+img: ":IMG_6372.jpg"
 # disable comments on this page
 #comments_disable: true
 
@@ -38,7 +38,7 @@ date: 2024-08-29 13:00:00 +0200
 ---
 <!-- outline-start -->
 
-![Jiraskovy Sady](:IMG_6372.JPG){:data-align="center"}
+![Jiraskovy Sady](:IMG_6372.jpg){:data-align="center"}
 
 If you are looking for places to decompress, here are a few places you might enjoy.
 
