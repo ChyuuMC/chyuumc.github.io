@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: wheretobuygroceriesinhradeckralove
-title: "Where to buy what - Groceries edition 🛒"
+title: "Where to buy groceries in Hradec Kralove? 🛒"
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -55,9 +55,11 @@ The biggest and furthest, [Hyper Tesco](https://goo.gl/maps/JmbyJRJjeTkMvnM69) i
 
 Tesco also offers [Online Delivery](https://nakup.itesco.cz/groceries/en-GB?preservedReferrer=https://nakup.itesco.cz/groceries/cs-CZ) to your doorstep at a chosen time which I’ve never used before but I've heard other students raving about it. 
 
+Tesco also offers 10% discount for students with ISIC for purchases up to 600 czk. More info [here](https://itesco.cz/akcni-nabidky/akce-souteze/sleva-pro-studenty-s-isic/).
+
 #### LiDL
 
-Lidl is a grocery chain from Germany. I personally like this store for many things including their special weekly offers such as Asian week, Spanish week, Italian week, French week, etc. etc. There are three Lidl supermarkets in Hradec Kralove. There is one next to Tesco in [Atrium](https://goo.gl/maps/TSiVbFcPeGsPN5Fz9), another one [next to the Hradec main Bus station](https://goo.gl/maps/8sN4iFEaLf3Am99c8) and the last one [near Palachova domitory](https://goo.gl/maps/N4xqBdsBdyaVgA4c7).
+Lidl is a grocery chain from Germany. I personally like this store for many things including their special weekly offers such as Asian week, Spanish week, Italian week, French week, etc. etc. There are three Lidl supermarkets in Hradec Kralove. There is one next to Tesco in [Atrium](https://goo.gl/maps/TSiVbFcPeGsPN5Fz9), another one [next to the Hradec main Bus station](https://goo.gl/maps/8sN4iFEaLf3Am99c8) and the last but not lease [near Palachova domitory](https://goo.gl/maps/N4xqBdsBdyaVgA4c7).
 
 #### BILLA
 
@@ -65,7 +67,7 @@ Billa is another Germany grocery chain. There are several locations in Hradec Kr
 
 #### Kaufland
 
-There is only one location for [Kaufland](https://goo.gl/maps/D5imzey3aZxEsYoC7) in Hradec Kralove. It is right behind our Medical Faculty building. Personally, I prefer Kaufland more than Tesco. 
+There is only one location for [Kaufland](https://goo.gl/maps/D5imzey3aZxEsYoC7) in Hradec Kralove. It is right behind the Medical Faculty building. Personally, I prefer Kaufland more than Tesco. 
 
 #### Albert
 
@@ -77,7 +79,7 @@ Honestly, I’ve been to this supermarket just once. They also have several loca
 
 #### Asian mini-markets
 
-Here, you can find several Asian groceries such as Ramen packs, Indomie, Fish Sauce, Siracha, Pockey, etc. etc. The biggest one is [near Ulrichovo Namesti](https://goo.gl/maps/aRNuHQmJSWFn7Bgi7). There are many other mini-markets and they are normally titled “mini-market” or “potraviny”. If you happen to be in Prague, you can also check out [SAPA Praha](https://goo.gl/maps/ZXr5MwjgxGtY9Y1z9), a large Vietnamese village with several malls and restaurants. 
+Here, you can find several Asian groceries such as Ramen packs, Indomie, Fish Sauce, Siracha, Pockey, etc. etc. The biggest one is [near Ulrichovo Namesti](https://goo.gl/maps/aRNuHQmJSWFn7Bgi7). Their [newest branch](https://maps.app.goo.gl/UWdNsSrDFT8wSA6T9) is near Central bus stop. Don't forget to check out their boba store while you are there. There are many other Asian groceries shops around the city and they are normally titled “mini-market” or “potraviny”. If you happen to be in Prague, you can also check out [SAPA Praha](https://goo.gl/maps/ZXr5MwjgxGtY9Y1z9), a large Vietnamese village with several malls and restaurants. 
 
 
 ### Online
